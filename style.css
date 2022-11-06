@@ -1,0 +1,24 @@
+.container{
+    /* max-width: 900px; */
+    height: 95vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: 1/1;
+}
+
+.hover{
+    background-color: black;
+}
+
+.div_rows{
+    margin: 0;
+}
+
+div > button{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+}
